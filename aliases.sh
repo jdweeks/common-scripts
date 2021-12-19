@@ -3,6 +3,7 @@
 
 alias k=kubectl
 alias kg='kubectl get'
+alias ks='kubectl get pods'
 alias kl='kubectl logs'
 
 alias ktx=kubectx
